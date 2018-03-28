@@ -7,7 +7,7 @@ class App extends Component {
     super(...args);
 
     this.state = {
-      text: 'Most people would say that i\'m freaking awesome, athletic, and look a little bit like John F Kennedy Jr. I have an adorable puppy named Atticus, based on the famous character in To Kill A Mocking Bird.',
+      text: 'Most people would say that I\'m freaking awesome, athletic, and look a little bit like John F Kennedy Jr. I have an adorable puppy named Atticus, based on the famous character in To Kill A Mocking Bird.',
     };
   }
 
