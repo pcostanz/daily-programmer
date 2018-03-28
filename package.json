@@ -4,7 +4,10 @@
   "private": true,
   "homepage": "https://pcostanz.github.io/daily-programmer",
   "dependencies": {
+    "color": "^3.0.0",
     "gh-pages": "^1.1.0",
+    "prop-types": "^15.6.1",
+    "radium": "^0.23.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.1"
